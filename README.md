@@ -1,2 +1,2 @@
 # SovTeh
-Laboratory for additional classes Privalova M.V.
+Laboratory for additional classes Privalov M.V.
